@@ -1,7 +1,7 @@
 import React from 'react'
 import mission from '../assets/mission.mp4'
 import { MISSION } from '../constants'
-import { section } from 'framer-motion/client'
+
 
 
 const Mission = () => {
